@@ -1,4 +1,6 @@
-# Projetos de Ciência de Dados com Python — Portfólio
+# Estudos de ciência de dados · Machine learning em crédito
+
+Série de estudos concluída. Os seis repositórios estão arquivados para consulta, com notebooks, resultados e histórico preservados. Para projetos de BI, pipelines e aplicações, veja o [portfólio principal](https://github.com/JVCSampaio).
 
 Série de **6 projetos práticos** de machine learning aplicada a um dataset real de **crédito (UCI Credit Card: 5.333 registros, 23 variáveis)**, executada a partir do livro *Projetos de Ciência de Dados com Python* (Stephen Klosterman, Novatec Editora, 2020).
 
