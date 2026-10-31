@@ -31,3 +31,7 @@ Cada projeto é um repositório independente com notebook completo (já executad
 1. Comece pelo [Projeto 1](https://github.com/JVCSampaio/projeto-01-exploracao-dados) para entender os dados.
 2. Siga a ordem da tabela — cada projeto constrói sobre o anterior.
 3. Cada notebook roda com `jupyter notebook <nome>.ipynb` após `pip install` das dependências listadas no README do projeto.
+
+## Licença
+
+Distribuído sob a licença [MIT](LICENSE).
